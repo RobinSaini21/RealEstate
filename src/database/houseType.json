@@ -1,0 +1,14 @@
+[
+    {
+        "HouseType":"Townhomes"
+    },
+    {
+        "HouseType":"Single-Family Homes"
+    },
+    {
+        "HouseType":"Tiny Home"
+    },
+    {
+        "HouseType":"Victorian Style"
+    }
+]

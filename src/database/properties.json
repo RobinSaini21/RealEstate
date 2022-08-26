@@ -1,0 +1,72 @@
+[
+  {
+    "City": "New York",
+    "Price": 1000,
+    "Address": "Xyz Abc",
+    "Beds": "2",
+    "Bathrooms": "1",
+    "Area": "4×7",
+     "id":"opf0we345544rw234e6fwe",
+     "HouseType":"Single-Family Homes"
+  },
+  {
+    "City": "New York",
+    "Price": 200,
+    "Address": "Xyz Abc",
+    "Beds": "2",
+    "Bathrooms": "2",
+    "Area": "2×8",
+    "id":"o12f0we34509923w234e6fwe",
+    "HouseType":"Townhomes"
+  },
+  {
+    "City": "New York",
+    "Price": 2250,
+    "Address": "Xyz Abc",
+    "Beds": "3",
+    "Bathrooms": "2",
+    "Area": "3×8",
+    "id":"o12f0we34509923w0342asd",
+    "HouseType":"Tiny Home"
+  },
+  {
+    "City": "New York",
+    "Price": 2400,
+    "Address": "Xyz Abc",
+    "Beds": "3",
+    "Bathrooms": "2",
+    "Area": "3×8",
+    "id":"o12f0we0s093e0e0edd",
+    "HouseType":"Victorian Style"
+  },
+  {
+    "City": "New York",
+    "Price": 5000,
+    "Address": "Xyz Abc",
+    "Beds": "3",
+    "Bathrooms": "2",
+    "Area": "3×8",
+    "id":"o12f0we0s093e034sdlasdd",
+    "HouseType":"Tiny Home"
+  },
+  {
+    "City": "California City",
+    "Price": 5000,
+    "Address": "Xyz Abc",
+    "Beds": "3",
+    "Bathrooms": "2",
+    "Area": "3×7",
+    "id":"o12f0dl3eddlew3423d",
+    "HouseType":"Single-Family Homes"
+  },
+  {
+    "City": "California City",
+    "Price": 2400,
+    "Address": "Xyz Abc",
+    "Beds": "3",
+    "Bathrooms": "2",
+    "Area": "3×4",
+    "id":"o12f0mwer030idwdo3",
+    "HouseType":"Townhomes"
+  }
+]
